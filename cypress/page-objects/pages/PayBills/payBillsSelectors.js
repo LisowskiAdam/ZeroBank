@@ -1,0 +1,21 @@
+export default {
+    sp_payee: "#sp_payee",
+    sp_account: "#sp_account",
+    sp_amount: "#sp_amount",
+    sp_date: "#sp_date",
+    sp_description: "#sp_description",
+    alert_content: "#alert_content",
+    submit_button: 'input[type="submit"]',
+    dismiss_button: 'button[data-dismiss="alert"]',
+    np_new_payee_name: "#np_new_payee_name",
+    np_new_payee_address: "#np_new_payee_address",
+    np_new_payee_account: "#np_new_payee_account",
+    np_new_payee_details: "#np_new_payee_details",
+    pc_currency: "#pc_currency",
+    pc_amount: "#pc_amount",
+    pc_inDollars_true: "#pc_inDollars_true",
+    pc_conversion_amount: "#pc_conversion_amount",
+    sp_sell_rate: "#sp_sell_rate",
+    pc_calculate_costs: "#pc_calculate_costs",
+    
+}
